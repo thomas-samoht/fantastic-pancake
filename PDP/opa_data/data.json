@@ -1,0 +1,11 @@
+{
+  "users": [
+    {"name": "tom", "bsn": "000", "authorized_orgs": ["555", "777"]},
+    {"name": "john", "bsn": "111", "authorized_orgs": ["555"]},
+    {"name": "bea", "bsn": "222", "authorized_orgs": []}
+  ],
+  "organizations" : [
+    {"name": "Clinic-1", "ura": "555"},
+    {"name": "Org2", "ura": "777"}
+  ]
+}
